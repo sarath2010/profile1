@@ -1,0 +1,128 @@
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+.navbar-nav{
+    border-spacing: 25px;
+}
+
+.Hello{
+    color: maroon;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+/* About section */
+
+.about-head{
+    color: rgb(174, 12, 12);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 5%;
+    text-decoration: underline;
+    }
+
+.about-pic{
+    float: left;
+    margin-left: 10%;
+    }
+
+.about-description div{
+    color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    margin-left: 50%;
+    margin-right: 5%;
+    }
+
+.about-line { 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 2px;
+    color: black;
+    } 
+
+  /* Skills section */
+
+  .skill-head{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    }
+
+.skill-list{
+    margin-left: 5%;
+    margin-right: 75%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding: 5px;
+    margin: 2px red;
+    }
+
+.skill-pic{
+    float: right;
+    margin-right: 5%;
+    }
+
+.skill-line { 
+    display: block;
+    margin-left: auto;
+    margin-right: 50%;
+    border-width: 2px;
+    color: black;
+    } 
+
+  /* Education section */
+
+.edu-head{
+    color: rgb(174, 12, 12);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    }
+
+.edu-list1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25%;
+    font-style: oblique;
+    }
+
+.edu-list1 col{
+    font-size: larger;
+    }
+
+.edu-line{
+    margin-left: 25%;
+    margin-right: 25%;
+    }
+
+.edu-list2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 25%;
+    font-style: oblique;
+    }
+    
+.edu-list2 col{
+    font-size: larger;
+    }
+
+    /* Contact section */
+
+.contact-head{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    }
+
+.contact-form{
+    margin-left: 25%;
+}
+
+
+
