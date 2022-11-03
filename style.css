@@ -122,7 +122,19 @@
 
 .contact-form{
     margin-left: 25%;
-}
+    }
 
+.contact-form button{
+    color: black;
+    background-color: gainsboro;
+    width: 100px;
+    margin-left: 70px;
+    }
 
-
+.contact-line { 
+    display: block;
+    margin-left: auto;
+    margin-right: 50%;
+    border-width: 2px;
+    color: black;
+    }
