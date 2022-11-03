@@ -153,7 +153,8 @@
        
         Top a{
             text-decoration: none;
-            float: right;
+            float: inline-end;
+            margin-right: 5%;
              }
 
         Top h3{
@@ -167,4 +168,5 @@ footer{
     font-family: Arial, Helvetica, sans-serif;
     color: darkred;
     float: inline-start;
+    margin-left: 25%;
     }
