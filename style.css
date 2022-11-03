@@ -149,3 +149,22 @@
         color: black;
         font-weight: bold;
         }
+
+       
+        Top a{
+            text-decoration: none;
+            float: right;
+             }
+
+        Top h3{
+            font-family: Arial, Helvetica, sans-serif;
+            color: darkred;
+            font-weight: 800;
+            }
+
+
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkred;
+    float: inline-start;
+    }
