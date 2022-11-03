@@ -138,3 +138,14 @@
     border-width: 2px;
     color: black;
     }
+
+    .footer-row{
+        margin-left: 5%;
+        }
+    
+    .footer-row a{
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+        color: black;
+        font-weight: bold;
+        }
